@@ -1,4 +1,4 @@
-### Deploying Elasticksearch-cloud with operator management
+# Deploying Elasticksearch-cloud with operator management
 
 ## Requirements
 

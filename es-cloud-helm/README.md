@@ -1,4 +1,4 @@
-### Deployment of Elasticksearch with Helm
+# Deployment of Elasticksearch with Helm
 
 ## Requirements:
 

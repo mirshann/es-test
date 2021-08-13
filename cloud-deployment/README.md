@@ -1,4 +1,4 @@
-### Deployment of GKE service in GCP
+# Deployment of GKE service in GCP
 
 ## Requiriments 
 
