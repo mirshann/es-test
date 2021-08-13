@@ -7,6 +7,3 @@ kubectl apply -n elc -f ./030-es-cluster.yaml
 kubectl apply -n elc -f ./040-kibana.yaml
 
 PASSWORD=$(kubectl get secret es-cluster-es-elastic-user -o go-template='{{.data.elastic | base64decode}}')
-
-
-

@@ -11,8 +11,16 @@ All deployment parameters that owerrides default [parameters|https://github.com/
 
 ## Deployment
 
-run deploy.sh
+    run deploy.sh
 
 ## Rollback
 
 run helm rollback elasticksearch-test
+
+## Useful links
+
+- [Elasticksearch helm repo](https://github.com/elastic/helm-charts/tree/master/elasticsearch)
+
+- [Defaul values.yaml for helm](https://github.com/elastic/helm-charts/blob/master/elasticsearch/values.yaml)
+
+- [Elastic Kibana helm repo](https://github.com/elastic/helm-charts/tree/master/kibana)
